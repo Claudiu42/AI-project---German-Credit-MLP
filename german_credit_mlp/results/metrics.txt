@@ -1,0 +1,12 @@
+Accuracy: 0.81
+Total Misclassification Cost: 439
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           1       0.90      0.81      0.85       700
+           2       0.64      0.80      0.71       300
+
+    accuracy                           0.81      1000
+   macro avg       0.77      0.80      0.78      1000
+weighted avg       0.82      0.81      0.81      1000
